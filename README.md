@@ -1,4 +1,4 @@
-[![Logo](http://i.imgur.com/OFhowJb.png)](http://i.imgur.com)
+[![Logo](http://i.imgur.com/HzD6rVn.png)](http://i.imgur.com)
 ================
 
 ## How to join:
