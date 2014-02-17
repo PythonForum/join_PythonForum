@@ -12,3 +12,6 @@ You can join IRC via your IRC Client or webchat via your browser<br>
 http://webchat.freenode.net/ <br>
 SERVER: irc.freenode.net <br>
 CHANNEL: #python-forum <br>
+* Github Issue <br>
+Open a github issue on this repo and request to be added <br>
+https://github.com/PythonForum/join_PythonForum/issues/new
