@@ -2,7 +2,7 @@
 ================
 
 ## How to join:
-You can request to be added to the repo of your choice by contacting one of the moderators at:
+You can request to be added to the user group who has access to modify repos here by contacting one of the moderators at:
 
 * the forums <br>
 http://www.python-forum.org <br>
