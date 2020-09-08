@@ -5,7 +5,7 @@
 You can request to be added to the user group who has access to modify repos here by contacting one of the moderators at:
 
 * the forums <br>
-http://www.python-forum.org <br>
+http://www.python-forum.io <br>
 * the IRC channel <br>
 http://www.python-forum.org/viewtopic.php?f=25&t=233 <br>
 You can join IRC via your IRC Client or webchat via your browser<br>
